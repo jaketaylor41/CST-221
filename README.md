@@ -1,1 +1,1 @@
-# CST-221
+My name is Jacob Taylor, I am a computer programming major with a previous degree in Psychology. I completed the GCU Java Bootcamp last semester which allowed me to transfer credits in for a degree. I look forward to continuing to learn more about operating systems as well as the C language. 
